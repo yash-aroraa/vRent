@@ -1,3 +1,4 @@
+//NOTE: Enter the ethereum account mnemonic in line 9.
 // import libraries
 const factoryCompiled = require('./build/FactoryRent.json');
 const HDWalletProvider = require('truffle-hdwallet-provider');
